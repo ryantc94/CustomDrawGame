@@ -1,2 +1,2 @@
-# custom-draw-game
+# CustomDrawGame
 Drawing game with custom input
